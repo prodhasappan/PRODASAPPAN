@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacking Website</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to our Hacking World!</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>Discover the latest hacking techniques and tools.</p>
+        </section>
+        <section>
+            <h2>Services</h2>
+            <ul>
+                <li>Penetration Testing</li>
+                <li>Security Audits</li>
+                <li>Ethical Hacking Courses</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Contact Us</h2>
+            <p>Email: info@hackingwebsite.com</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Hacking Website. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
