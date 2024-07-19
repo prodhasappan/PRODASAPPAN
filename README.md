@@ -8,5 +8,5 @@ I am ameer
 
 
   1. git clone .....
-  2. cd passstrungth
+  2. cd passwordstcheck
   3. python3 run.py
