@@ -1,4 +1,4 @@
-# Ameer's GitHub Profile README
+# README
 
 ## About Me
 Hi, I'm Ameer, a beginner in the world of GitHub. I'm excited to learn and share my projects with the community.
