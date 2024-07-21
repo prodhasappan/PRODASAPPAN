@@ -14,7 +14,7 @@ You can find me on GitHub at [ameer](https://github.com/prodhasappan).
 
 ## Social Media
 You can also find me on LinkedIn at [Ameer](https://www.linkedin.com/in/prodhasappan).
-
+You can also find me on instagram at[prodhasappan](https://www.instagram.com/prodhasappan/)
 ## Project Status
 This repository is still under development. I'll be adding more content and features soon.
 
